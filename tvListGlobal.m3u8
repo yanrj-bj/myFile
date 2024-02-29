@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="财经",Yahoo Finance
 https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
-#EXTINF:-1 group-title="财经" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png",Bloomberg TV+
-https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+#EXTINF:-1 group-title="财经" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png",Bloomberg TV+ UHD
+https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
 #EXTINF:-1 group-title="财经" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900012J9_20230125T022351SQUARE.png_20230125022351.png",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 
@@ -24,6 +24,12 @@ https://i.mjh.nz/SamsungTVPlus/GBBD320000432.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD2900001VD.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png",Tennis Channel International
 https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20230125T022058SQUARE.png_20230125022059.png",Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png",SportsGrid
+https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png",Pac-12 Insider
+https://i.mjh.nz/SamsungTVPlus/USBA300034DB.m3u8
 
 #EXTINF:-1 group-title="英国",BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -69,15 +75,27 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="中东",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="美国",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",美国 HTV 1 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
-#EXTINF:-1 group-title="美国",美国CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="美国",美国movie sphere二台
-https://moviesphere-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="美国",美国mytime 电影频道
-https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 group-title="美国",美国中文电视
-https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20220621T075722SQUARE.png_20220621075724.png",CBS News
+https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555SQUARE.png_20220608005557.png",LiveNOW from FOX
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20230208T100305SQUARE.png_20230208100306.png",Cheddar News
+https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
+#EXTINF:-1 group-title="美国s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20221109T013512SQUARE.png_20221109013515.png",TYT Network
+https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20221116T013347SQUARE.png_20221116013347.png",Circle
+https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20240131T021358SQUARE.png_20240131021359.png",ET
+https://i.mjh.nz/SamsungTVPlus/USBA3700002JF.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20231229T003210SQUARE.png_20231229003211.png",DangerTV
+https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230809T005233SQUARE.png_20230809005234.png",Outside
+https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30003672_20230809T005210SQUARE.png_20230809005211.png",IGN
+https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20230125T022705SQUARE.png_20230125022706.png",WeatherSpy
+https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20230125T022716SQUARE.png_20230125022717.png",Stingray Naturescape
+https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png",Documentary+
+https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
