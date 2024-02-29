@@ -16,7 +16,20 @@ http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlis
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="中东",DUBAI SPORTS 3 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="美国",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="中东",半岛电视台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="美国",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国",美国 HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 group-title="美国",美国CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="美国",美国movie sphere二台
+https://moviesphere-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="美国",美国mytime 电影频道
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="美国",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+
+
