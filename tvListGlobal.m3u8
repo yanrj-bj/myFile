@@ -71,7 +71,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
 #EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png",Super Anime
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20240131T031214SQUARE.png_20240131031215.png",XITE Hits
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20240131T031214SQUARE.png_20240131031215.png",XITE Hits
 https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
 
 #EXTINF:-1 group-title="日本",NHK World Japan
@@ -141,7 +141,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20230208T100305SQUARE.png_20230208100306.png",Cheddar News
 https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
-#EXTINF:-1 group-title="美国s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20221109T013512SQUARE.png_20221109013515.png",TYT Network
+#EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20221109T013512SQUARE.png_20221109013515.png",TYT Network
 https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
 #EXTINF:-1 group-title="美国" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20221116T013347SQUARE.png_20221116013347.png",Circle
 https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
