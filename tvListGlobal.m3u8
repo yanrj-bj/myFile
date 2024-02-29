@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="财经",Yahoo Finance
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="财经" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png",Bloomberg TV+
+https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+#EXTINF:-1 group-title="财经" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900012J9_20230125T022351SQUARE.png_20230125022351.png",Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 
 #EXTINF:-1 group-title="体育",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
@@ -10,6 +14,16 @@ http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlis
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="体育",DUBAI SPORTS 3 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900004G9_20230614T010155SQUARE.png_20230614010156.png",The Wicked Tuna Channel
+https://i.mjh.nz/SamsungTVPlus/GBBC900004G9.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png",MotorRacing
+https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD320000432_20231025T032808SQUARE.png_20231025032809.png",MAVTV Motorsports Network
+https://i.mjh.nz/SamsungTVPlus/GBBD320000432.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2900001VD_20230926T032321SQUARE.png_20230926032322.png",World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/GBBD2900001VD.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png",Tennis Channel International
+https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
 
 #EXTINF:-1 group-title="英国",BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -17,7 +31,34 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
 #EXTINF:-1 group-title="英国",Sky News Extra 
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png",Euronews Live
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png",Adventure Earth
+https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20230125T022345SQUARE.png_20230125022346.png",INWILD
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png",WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png",GB News
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000019J_20240117T032810SQUARE.png_20240117032810.png",INTROUBLE
+https://i.mjh.nz/SamsungTVPlus/GBAJ42000019J.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png",Travelxp
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900002DE_20220323T070849SQUARE.png_20220323070852.png",Fashion TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20230712T021153SQUARE.png_20230712021154.png",Great British Menu
+https://i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB2000004BQ_20231115T012324SQUARE.png_20231115012325.png",Ketchup TV
+https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20230913T031540SQUARE.png_20230913031541.png",Tiny POP
+https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20240117T032823SQUARE.png_20240117032824.png",Family - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+#EXTINF:-1 group-title="英国" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png",Super Anime
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20240131T031214SQUARE.png_20240131031215.png",XITE Hits
+https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
 
 #EXTINF:-1 group-title="日本",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -40,12 +81,3 @@ https://moviesphere-roku.amagi.tv/playlist1080p.m3u8
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="美国",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-
-#EXTINF:-1 group-title="欧洲",[西班牙]TeleRibera
-http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 group-title="欧洲",[西班牙]TuyaLaJandaTelevisión
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 group-title="欧洲",[西班牙]TV5LIMARES
-https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 group-title="欧洲",[西班牙]TVG
-http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
