@@ -69,22 +69,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 #EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV央视文化精品频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png",CCTV央视文化精品频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV怀旧剧场频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV怀旧剧场频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV风云音乐频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",CCTV风云音乐频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV风云剧场频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",CCTV风云剧场频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV高尔夫网球频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",CCTV高尔夫网球频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV央视台球频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png",CCTV央视台球频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="CCTV女性时尚频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚频道
-http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
-#EXTINF:-1 group-title="数字电视" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="教育" tvg-id="CETV1中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国教育电视台一套
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 
