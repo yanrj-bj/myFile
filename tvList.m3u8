@@ -117,26 +117,26 @@ http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8$LR•IPV6『
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/$LR•IPV6『线路5』
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3$LR•IPV6『线路36』
 
-#EXTINF:group-title="港·澳·台",HKIBC[Geo-blocked]
+#EXTINF:-1 group-title="港·澳·台",HKIBC[Geo-blocked]
 https://list.iptvcat.com/my_list/s/e3bf217505e2258e8e1f30ec8d4500a7.m3u8
 https://list.iptvcat.com/my_list/s/d40871e657a2805ddc7307593d78fede.m3u8
 
-#EXTINF:group-title="港·澳·台",HKSTV (香港衛視) (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="港·澳·台",HKSTV (香港衛視) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/73380cc25ec3f1ae0046d0e68c8b943e.m3u8
 
-#EXTINF:group-title="港·澳·台",HOY Infotainment Channel (1080p)
+#EXTINF:-1 group-title="港·澳·台",HOY Infotainment Channel (1080p)
 https://list.iptvcat.com/my_list/s/da046d7fdd20754f9bda58ed87af0517.m3u8
 
-#EXTINF:group-title="港·澳·台",RTHK (港台電視31) (1080p)
+#EXTINF:-1 group-title="港·澳·台",RTHK (港台電視31) (1080p)
 https://list.iptvcat.com/my_list/s/348ffc1eb9a227be2aad141dc43ea957.m3u8
 
-#EXTINF:group-title="港·澳·台",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="港·澳·台",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/02a980d36ec467fe65acf5b01b281828.m3u8
 
-#EXTINF:group-title="港·澳·台",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="港·澳·台",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/e3bc00cf6dfffb7dbc8257e5cf2fa849.m3u8
 
-#EXTINF:RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="港·澳·台",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/be39b778b7513c1eae094fa3aaecbcd3.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
