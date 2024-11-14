@@ -1,4 +1,7 @@
 #EXTM3U
+#Bloomberg Television
+https://list.iptvcat.com/my_list/s/3f91651f1d68c66dc086864f6e76298a.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/CBSN_190x190.png?raw=true",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
