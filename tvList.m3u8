@@ -136,7 +136,7 @@ https://list.iptvcat.com/my_list/s/02a980d36ec467fe65acf5b01b281828.m3u8
 #EXTINF:group-title="港·澳·台",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/e3bc00cf6dfffb7dbc8257e5cf2fa849.m3u8
 
-RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+#EXTINF:RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
 https://list.iptvcat.com/my_list/s/be39b778b7513c1eae094fa3aaecbcd3.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
