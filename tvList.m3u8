@@ -101,5 +101,33 @@ http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8$LR•IPV6『
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/$LR•IPV6『线路5』
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3$LR•IPV6『线路36』
 
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8$LR•IPV6『线路1』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8$LR•IPV6『线路3』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226656/index.m3u8$LR•IPV6『线路5』
+http://[2409:8087:1a0a:df::402e]:80/wh7f454c46tw3107212859_-133726409/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8?icpid=88888888&RTS=1713969936&from=4&hms_devid=1103&online=1713969936&vqe=3$LR•IPV6『线路9』
+
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8$LR•IPV6『线路1』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014260/1.m3u8$LR•IPV6『线路3』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8$LR•IPV6『线路6』
+http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw2381060953_-1615294381/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8?icpid=88888888&RTS=1713969210&from=4&hms_devid=1211&online=1713969210&vqe=3$LR•IPV6『线路22』
+
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8$LR•IPV6『线路2』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8$LR•IPV6『线路1』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226155/index.m3u8$LR•IPV6『线路11』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226155/index.m3u8$LR•IPV6『线路15』
+
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8$LR•IPV6『线路1』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8$LR•IPV6『线路2』
+http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1713970350&from=4&hms_devid=771&online=1713970350&vqe=3$LR•IPV6『线路9』
+
+
+
+
+
+
 
 
