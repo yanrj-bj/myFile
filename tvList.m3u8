@@ -130,6 +130,14 @@ https://list.iptvcat.com/my_list/s/da046d7fdd20754f9bda58ed87af0517.m3u8
 #EXTINF:group-title="港·澳·台",RTHK (港台電視31) (1080p)
 https://list.iptvcat.com/my_list/s/348ffc1eb9a227be2aad141dc43ea957.m3u8
 
+#EXTINF:group-title="港·澳·台",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+https://list.iptvcat.com/my_list/s/02a980d36ec467fe65acf5b01b281828.m3u8
+
+#EXTINF:group-title="港·澳·台",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+https://list.iptvcat.com/my_list/s/e3bc00cf6dfffb7dbc8257e5cf2fa849.m3u8
+
+RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+https://list.iptvcat.com/my_list/s/be39b778b7513c1eae094fa3aaecbcd3.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8$LR•IPV6『线路1』
@@ -323,5 +331,3 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$LR�
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8$LR•IPV6『线路1』
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8$LR•IPV6『线路2』
 http://[2409:8087:74d9:21::6]/270000001128/9900000073/index.m3u8$LR•IPV6『线路3』
-
-
