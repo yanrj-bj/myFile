@@ -11,25 +11,25 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://list.iptvcat.com/my_list/s/c8b951d3be97718b1e7f5c5028f40422.m3u8
 https://list.iptvcat.com/my_list/s/052ec7f1c2bb6811e6a0b120931a2edd.m3u8
 
-#EXTINF:group-title="财经",Bloomberg Television
+#EXTINF:-1 group-title="财经",Bloomberg Television
 https://list.iptvcat.com/my_list/s/704840e6155b26b00b7a6a7d654650ef.m3u8
 https://list.iptvcat.com/my_list/s/3f91651f1d68c66dc086864f6e76298a.m3u8
 https://list.iptvcat.com/my_list/s/10478599bd8af1741aae0fe9d6d11d3c.m3u8
 https://list.iptvcat.com/my_list/s/0c998bb6328642eec581b1b40f746e3f.m3u8
 https://list.iptvcat.com/my_list/s/1619ed29fc15035d787768c2cb22e282.m3u8
 
-#EXTINF:group-title="体育",PGA TOUR
+#EXTINF:-1 group-title="体育",PGA TOUR
 https://list.iptvcat.com/my_list/s/7398e76e8c33c6e22cee145df6c5ac53.m3u8
 
-#EXTINF:group-title="体育",GolfPass
+#EXTINF:-1 group-title="体育",GolfPass
 https://list.iptvcat.com/my_list/s/4da7c42278fdfe9b8a06e572d8bd7285.m3u8
 
-#EXTINF:group-title="体育",Tennis Channel
+#EXTINF:-1 group-title="体育",Tennis Channel
 https://list.iptvcat.com/my_list/s/f8e36bbbb7e22064a02e97c4dc1d7f68.m3u8
 https://list.iptvcat.com/my_list/s/85d7ad720a9b14cf1ca817e63541783a.m3u8
 https://list.iptvcat.com/my_list/s/14968df1f9ca246ae9b9b76769dd9d06.m3u8
 
-#EXTINF:group-title="体育",Red Bull TV
+#EXTINF:-1 group-title="体育",Red Bull TV
 https://list.iptvcat.com/my_list/s/3d36447b39d661b90b26aae405995d07.m3u8
 https://list.iptvcat.com/my_list/s/95b742b63bfac17baf3514790528b249.m3u8
 https://list.iptvcat.com/my_list/s/dbd90f243eb63ee51295a75996a90bce.m3u8
