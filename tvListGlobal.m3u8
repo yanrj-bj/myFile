@@ -1,36 +1,22 @@
 #EXTM3U
-#Bloomberg Television
-https://list.iptvcat.com/my_list/s/3f91651f1d68c66dc086864f6e76298a.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/CBSN_190x190.png?raw=true",CBSN
+#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/CBSN_190x190.png?raw=true",group-title="新闻",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07292020/158798_Samsung_TVPlus_190x190.png?raw=true",Fox News Now
+#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07292020/158798_Samsung_TVPlus_190x190.png?raw=true",group-title="新闻",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://list.iptvcat.com/my_list/s/50dc0f28a3f6f83aaa35555b23ce6282.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Yahoo_finance_190x190.png?raw=true",Yahoo! Finance
+#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Yahoo_finance_190x190.png?raw=true",group-title="财经",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+https://list.iptvcat.com/my_list/s/c8b951d3be97718b1e7f5c5028f40422.m3u8
+https://list.iptvcat.com/my_list/s/052ec7f1c2bb6811e6a0b120931a2edd.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/TYT_Network_190x190.png?raw=true",TYT
-https://tyt-samsungus.amagi.tv/playlist.m3u8
+#group-title="财经",Bloomberg Television
+https://list.iptvcat.com/my_list/s/704840e6155b26b00b7a6a7d654650ef.m3u8
+https://list.iptvcat.com/my_list/s/3f91651f1d68c66dc086864f6e76298a.m3u8
+https://list.iptvcat.com/my_list/s/10478599bd8af1741aae0fe9d6d11d3c.m3u8
+https://list.iptvcat.com/my_list/s/0c998bb6328642eec581b1b40f746e3f.m3u8
+https://list.iptvcat.com/my_list/s/1619ed29fc15035d787768c2cb22e282.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/ETLive_190x190.png?raw=true",ET Live
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/InsightTV_190x190.png?raw=true",Insight TV
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Bonappetit_190x190.png?raw=true",Bon AppÈtit
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Xplore_190X190.png?raw=true",Xplore
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Estrella_News_190X190.png?raw=true",Estrella News
-https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Novelas_Drama_190x190.png?raw=true",Novelas Dramas
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Novelas_Drama_190x190.png?raw=true",Novelas Romance
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#group-title="体育",PGA TOUR
+https://list.iptvcat.com/my_list/s/7398e76e8c33c6e22cee145df6c5ac53.m3u8
