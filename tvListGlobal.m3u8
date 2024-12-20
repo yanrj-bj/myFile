@@ -6,6 +6,22 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://list.iptvcat.com/my_list/s/50dc0f28a3f6f83aaa35555b23ce6282.m3u8
 
+#EXTINF:0 tvg-country="AF;AU;ID" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="新闻",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="新闻",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="新闻",Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&serverSideAds=false&checkedby:iptvcat.com
+
+
+
 #EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Yahoo_finance_190x190.png?raw=true",group-title="财经",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://list.iptvcat.com/my_list/s/c8b951d3be97718b1e7f5c5028f40422.m3u8
