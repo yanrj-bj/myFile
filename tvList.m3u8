@@ -1,25 +1,22 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『线路2』
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226670/index.m3u8$LR•IPV6『线路4』
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8$LR•IPV6『线路6』
+http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$LR•IPV6『线路2』
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•IPV6『线路1』
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$LR•IPV6『线路4』
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8?$LR•IPV6『线路11』
-
+http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$LR•IPV6『线路1』
+http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$LR•IPV6『线路4』
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3 综艺
-http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3$LR•IPV6『线路2』
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3$LR•IPV6『线路3』
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8?$LR•IPV6『线路9』
+http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•IPV6『线路46』
+http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•IPV6『线路45』
+http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$LR•IPV6『线路44』
 
 
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652/index.m3u8$LR•IPV6『线路2』
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8$LR•IPV6『线路4』
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8$LR•IPV6『线路5』
+http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$LR•IPV6『线路4』
+http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8$LR•IPV6『线路44』
+http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$LR•IPV6『线路28』
+
 
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8$LR•IPV6『线路1』
